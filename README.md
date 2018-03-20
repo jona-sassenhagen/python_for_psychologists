@@ -8,7 +8,7 @@ psychologists in Python. It holds
 introducing material and providing exercises
 
 - Homework assignments: Students conducted experiments. The experimental programs themselves 
-(in [OpenSesame](http://www.cogsci.nl) or [Psychopy](http://www.psychopy.org)), the resulting data, and the 
+(in [OpenSesame](http://osdoc.cogsci.nl/) or [Psychopy](http://www.psychopy.org)), the resulting data, and the 
 analysis in the  form of Jupyter Notebooks are presented.
 
 ## Aim of the course
