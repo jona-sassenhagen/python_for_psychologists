@@ -22,9 +22,10 @@ Anaconda comes with many or most of the Python packages a researcher needs. It a
 a great starting point for learning and using Python for conducting research. Most of the ressources here are Jupyter Notebooks, which you
 can download and run on your own computer.
 
-For example, the folder ExampleAnalyses contains experiments conducted by students as final assignments of a Python for Psychologists class.
-The Notebooks containing the analyses of the results can be reproduced if the corresponding data files are also downloaded, for example,
-by downloading this entire repository.
+For example, the folder [ExampleAnalyses](https://github.com/jona-sassenhagen/python_for_psychologists/tree/master/ExampleExperiments)
+contains experiments conducted by students as final assignments of a Python for Psychologists class.
+The Notebooks (*.ipynb files) containing the analyses of the results can be reproduced if the corresponding data files are also downloaded,
+for example, by [downloading this entire repository](https://github.com/jona-sassenhagen/python_for_psychologists/archive/master.zip).
 
 
 # Supported by
