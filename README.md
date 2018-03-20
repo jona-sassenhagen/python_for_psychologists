@@ -1,7 +1,7 @@
 ﻿# Python for Psychologists
 
 This repo contains an introduction to Open and reproducible scientific programming for
-psychologists in Python. It stems from a series of seminars held at the University of Frankfurt, Department of Psychology, on an introducing . 
+psychologists in Python. It stems from a series of seminars held at the University of Frankfurt, Department of Psychology. 
 Materials include:
 
 - Class material: a series of notebooks, each corresponding to one in-class session, 
