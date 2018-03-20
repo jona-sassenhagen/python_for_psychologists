@@ -7,7 +7,7 @@ psychologists in Python. It holds
 - Class material: a series of notebooks, each corresponding to one in-class session, 
 introducing material and providing exercises
 
-- Homework assignments: Students conducted experiments. The epxerimental programs themselves 
+- Homework assignments: Students conducted experiments. The experimental programs themselves 
 (in [OpenSesame](www.cogsci.nl) or [Psychopy](www.psychopy.org)), the resulting data, and the 
 analysis in the  form of Jupyter Notebooks are presented.
 
