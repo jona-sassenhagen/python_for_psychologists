@@ -19,7 +19,7 @@ analysis in the  form of Jupyter Notebooks are presented.
 
 If you have not yet done so: [Download and install Anaconda](https://www.anaconda.com/download/#macos), a scientific Python distribution.
 Anaconda comes with many or most of the Python packages a researcher needs. It also comes with the [Jupyter Notebook](http://jupyter.org),
-a great starting point for learning and using Python for conducting research. Most of the ressources here are Jupyter Notebooks, which you
+a great starting point for learning and using Python for conducting research. Most of the resources here are Jupyter Notebooks, which you
 can download and run on your own computer.
 
 For example, the folder [ExampleAnalyses](https://github.com/jona-sassenhagen/python_for_psychologists/tree/master/ExampleExperiments)
