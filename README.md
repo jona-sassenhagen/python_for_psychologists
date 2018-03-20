@@ -31,3 +31,5 @@ for example, by [downloading this entire repository](https://github.com/jona-sas
 # Supported by
 
 ![eLearning Förderfonds der Goethe-Universität Frankfurt](https://blog.studiumdigitale.uni-frankfurt.de/elf/files/2016/03/cropped-eLF_logo-1.png)
+![AG Fiebach](http://static1.squarespace.com/static/55a04efee4b06ad275768c2b/t/592898a520099e2f4bf7470b/1521543233985/?format=300w)
+![Goethe-Universität Frankfurt](http://www.uni-frankfurt.de/assets/ci/head_logo-3f4b9591169c7a3095f77eb21e4d00649f1ed7bdc00ace2e4eb2c9b5285e07ea.svg)
