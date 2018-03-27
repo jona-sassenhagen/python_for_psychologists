@@ -26,11 +26,9 @@ For example, the folder [ExampleAnalyses](https://github.com/jona-sassenhagen/py
 contains experiments conducted by students as final assignments of a Python for Psychologists class.
 The Notebooks (*.ipynb files) containing the analyses -- for an example, check out [this 
 one](https://github.com/jona-sassenhagen/python_for_psychologists/blob/master/ExampleExperiments/selfpriorisation/selfpriorisation_analysis.ipynb) -- of the results 
-can be reproduced if the corresponding data files 
-are 
-also 
-downloaded,
-for example, by [downloading this entire repository](https://github.com/jona-sassenhagen/python_for_psychologists/archive/master.zip).
+are complete, and fully reproducible. To reproduce one, download the notebook and the corresponding data files, store them in the correct file structure,
+for example, by [downloading this entire repository](https://github.com/jona-sassenhagen/python_for_psychologists/archive/master.zip),
+and open and run them in a Jupyter Notebook.
 
 
 # Supported by
